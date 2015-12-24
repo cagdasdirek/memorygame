@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="app_logo">Memory Game Logo</string>
+    <string name="high_score">High Scores</string>
+    <string name="score">Score: %d</string>
+    <string name="title">You completed the game!</string>
+    <string name="score_message">Your score is: %d</string>
+    <string name="name">Your name</string>
+    <string name="ok">OK</string>
+</resources>
